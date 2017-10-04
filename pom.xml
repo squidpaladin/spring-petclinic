@@ -150,7 +150,7 @@
         <url>http://144.38.202.176:8080/manager/text</url> 
         <warFile>target\spring-petclinic-1.5.1.war</warFile> 
         <path>/petclinic</path> 
-	<username>jcartagena</username>
+	<username>admin</username>
         <password>cloud@123</password>
         </configuration> 
         </plugin> 
